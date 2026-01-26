@@ -1,0 +1,53 @@
+﻿[
+  {
+    "Id": 0,
+    "NameAr": "متعلق بتحسين العمل",
+    "NameEn": "Related to business improvement",
+    "IsSeed": true
+  },
+  {
+    "Id": 1,
+    "NameAr": "متعلق بتطوير بيئة العمل",
+    "NameEn": "Related to developing the work environment",
+    "IsSeed": true
+  },
+
+  {
+    "Id": 2,
+    "NameAr": "متعلق بمقترح فعالية",
+    "NameEn": "Related to an event proposal",
+    "IsSeed": true
+  },
+  {
+    "Id": 3,
+    "NameAr": "متعلق بمقترح تطوير فني",
+    "NameEn": "Related to a Technical Development Proposal",
+    "IsSeed": true
+  },
+  {
+    "Id": 4,
+    "NameAr": "متعلق بمقترح تطوير فني",
+    "NameEn": "Related to the Real Estate System",
+    "IsSeed": true
+  },
+  {
+    "Id": 5,
+    "NameAr": "فكرة لحل مشكلة ما",
+    "NameEn": "An Idea to Solve a Problem",
+    "IsSeed": true
+  },
+  {
+    "Id": 6,
+    "NameAr": "متعلق بتحسين مشروع قائم",
+    "NameEn": "Related to Improving an Existing Project",
+    "IsSeed": true
+  },
+  {
+    "Id": 7,
+    "NameAr": "فكرة جديدة",
+    "NameEn": "New Idea",
+    "IsSeed": true
+  }
+
+]
+        

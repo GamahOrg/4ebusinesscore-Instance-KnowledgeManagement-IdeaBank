@@ -1,0 +1,16 @@
+﻿global using Domain.Enums;
+global using Microsoft.AspNetCore.Http;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.ChangeTracking;
+global using Microsoft.EntityFrameworkCore.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using IdeaBank.Infrastructure.Context;
+global using IdeaBank.Infrastructure.GenericRepo;
+global using IdeaBank.Infrastructure.ResponseDto;
+global using System.Linq.Expressions;
+global using System.Reflection;
+global using System.Security.Claims;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using IdeaBank.Domain.Models;
+global using IdeaBankModel = IdeaBank.Domain.Models.IdeaBank;

@@ -1,0 +1,39 @@
+[
+  {
+    "Id": "6aaf469a-0efc-45ca-93cd-a458c3bdc365",
+    "IdeaCategory": 1,
+    "Title": "Sample Idea",
+    "Description": "This is a seeded idea.",
+    "RequestStage": 2,
+    "LK_InputTypeId": 1,
+    "IsPublished": true,
+    "IdeaAttachments": [
+      {
+        "AttachmentPath": "wwwroot/Default/4E.png",
+        "IdeaBankId": "6aaf469a-0efc-45ca-93cd-a458c3bdc365"
+      }
+    ],
+    "IdeaLike": [
+      {
+        "IdeaBankId": "6aaf469a-0efc-45ca-93cd-a458c3bdc365",
+        "LikeStatus": 1
+
+      }
+    ],
+    "IdeaComment": [
+      {
+
+        "CommentText": "Good Idea",
+        "IdeaBankId": "6aaf469a-0efc-45ca-93cd-a458c3bdc365"
+      }
+    ],
+    "IdeaRate": [
+      {
+
+        "RateValue": 4,
+        "IdeaBankId": "6aaf469a-0efc-45ca-93cd-a458c3bdc365"
+      }
+    ]
+
+  }
+]
